@@ -1,0 +1,7 @@
+time 1542830144
+new [description:"- Clone nvim." entry:"1542830144" modified:"1542830144" status:"pending" tags:"todo" uuid:"efc736b5-f634-4dd8-8f45-04d979e7381e"]
+---
+time 1542830158
+old [description:"- Clone nvim." entry:"1542830144" modified:"1542830144" status:"pending" tags:"todo" uuid:"efc736b5-f634-4dd8-8f45-04d979e7381e"]
+new [description:"- Clone nvim and check interface." entry:"1542830144" modified:"1542830158" start:"1542830158" status:"pending" tags:"todo" uuid:"efc736b5-f634-4dd8-8f45-04d979e7381e"]
+---
